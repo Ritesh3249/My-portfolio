@@ -34,7 +34,6 @@ body{
   background: linear-gradient(var(--color-bg),var(--color-bg-variant)) !important;
   color: var(--color-white);
   line-height:1.7;
-  background-image: url(./assets/bg-texture.png);
 }
 
 /* ---------------Gen style-------- */
